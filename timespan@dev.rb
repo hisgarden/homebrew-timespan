@@ -1,4 +1,4 @@
-class TimespanAT1 < Formula
+class TimespanAtDev < Formula
   desc "A local time tracking application built with Rust (development version)"
   homepage "https://github.com/hisgarden/TimeSpan"
   url "https://github.com/hisgarden/TimeSpan.git", branch: "main"
