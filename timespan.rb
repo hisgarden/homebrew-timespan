@@ -4,7 +4,6 @@ class Timespan < Formula
   url "https://github.com/hisgarden/TimeSpan/archive/refs/tags/v1.1.0.tar.gz"
   sha256 "963b3e756facd1389509ab4b05b9c6cc69c4346f72652c4afc5ad493ef48c6ac"
   license "MIT"
-  head "https://github.com/hisgarden/TimeSpan.git", branch: "main"
 
   depends_on "rust" => :build
 
